@@ -72,3 +72,39 @@ h1{
 .memorial{
     width: 250px;
 }
+
+.card-icons{
+    display: flex;
+    align-items: center;
+    margin: 0 40px;
+}
+
+.cards{
+    background-color: white;
+    margin: 5px;
+    padding: 30px;
+    border-radius: 8px;
+}
+
+.sec-title{
+    margin: 0 40px;
+}
+
+.second-sec{
+    display: flex;
+    margin: 0 40px;
+}
+
+.sec-size{
+    background-color: white;
+    margin: 5px;
+    padding: 30px;
+    border-radius: 8px;
+}
+
+.quote{
+    background-color: white;
+    margin: 0 40px;
+    padding: 30px;
+    border-radius: 8px;
+}
