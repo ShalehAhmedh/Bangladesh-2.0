@@ -104,7 +104,118 @@ h1{
 
 .quote{
     background-color: white;
-    margin: 0 40px;
+    margin: 0 44px;
     padding: 30px;
     border-radius: 8px;
+}
+
+.section-3{
+    margin: 0 40px;
+    border-radius: 8px;
+}
+
+.section-4{
+    margin: 0 40px;
+}
+
+.sec-4-2{
+    border-radius: 20px;
+}
+
+.table-head{
+    display: flex;
+    justify-content: space-between;
+    background-color:lightgreen;
+    padding: 0 30px;
+    margin: 0px;
+}
+
+.td{
+    background-color: white;
+    display: flex;
+    margin: 0px;
+    justify-content: space-between;
+    padding: 20px;
+    border-style: solid;
+    border-bottom: none;
+}
+
+.td-last{
+    border-style: solid;
+}
+
+.td-btn{
+    background-color: lightgreen;
+    width: 100px;
+    height: 38px;
+    font-size: 12px;
+    padding: 10px;
+    border-radius: 15px;
+    border-style: none;
+}
+
+.sec-news{
+    border-radius: 8px;
+}
+
+.opinion{
+    border-radius: 8px;
+}
+
+.td-border{
+    border:#474747;
+}
+.satelite{
+    display: flex;
+    margin-bottom: 20px;
+    background-color: white;
+    padding: 40px;
+    border-radius: 8px;
+}
+
+.sat-pic{
+    border-radius: 5px;
+    padding-right: 30px;
+}
+
+.sec-news{
+    align-content: center;
+    align-items: center;
+    padding: 0 40px;
+}
+
+.txt-area{
+    width: 300px;
+    font-size: 24px;
+
+}
+
+.tk{
+    font-size: 24px;
+    padding: 15px 20px;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    background-color: white;
+}
+
+button:hover{
+    background-color: #C6E4D6;
+
+}
+
+.donate{
+
+}
+
+.don{
+    padding-left: 40%;
+    padding-right: 40%;
+}
+
+.don-p{
+    padding-left: 150px;
+}
+
+.don-a{
+    padding-left: 250px;
 }
